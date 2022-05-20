@@ -1,0 +1,14 @@
+    Notes:
+    ------
+
+    Install:
+        Install Vue CLI: "npm install -g @vue/cli"
+        Run: "vue create the-anime-app"
+        Run: "npm install vue bootstrap bootstrap-vue"
+
+    API Documentation:
+        https://anilist.gitbook.io/anilist-apiv2-docs/overview/graphql/getting-started
+    API Editor:
+        https://anilist.co/graphiql
+
+    
