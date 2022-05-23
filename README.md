@@ -1,6 +1,6 @@
 # VueJS and GraphQL Course
 
-Simply VueJS and GraphQL coursework
+VueJS and GraphQL coursework
 
 ## Instructions
 
