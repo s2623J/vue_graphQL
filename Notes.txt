@@ -5,10 +5,19 @@
         Install Vue CLI: "npm install -g @vue/cli"
         Run: "vue create the-anime-app"
         Run: "npm install vue bootstrap bootstrap-vue"
+        For work with GraphQL Run: "npm install --save vue-apollo graphql apollo-boost"
+        Run: "npm i graphql-tag"
+        Use the Chrome "Vue" extension to see the route and data type details asigned to each element
 
     API Documentation:
         https://anilist.gitbook.io/anilist-apiv2-docs/overview/graphql/getting-started
     API Editor:
         https://anilist.co/graphiql
+
+    Special Note:
+        GraphGL does NOT work well with Typescript
+
+    GraphQL: A query language
+    
 
     
